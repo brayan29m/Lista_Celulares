@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista_Celulares", "Lista_Celulares\Lista_Celulares.csproj", "{46031FE7-FC67-4BBD-9F71-0BFCF0E1E6BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46031FE7-FC67-4BBD-9F71-0BFCF0E1E6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46031FE7-FC67-4BBD-9F71-0BFCF0E1E6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46031FE7-FC67-4BBD-9F71-0BFCF0E1E6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46031FE7-FC67-4BBD-9F71-0BFCF0E1E6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7641E07-956E-4DA9-A5F2-015490D2874B}
+	EndGlobalSection
+EndGlobal
