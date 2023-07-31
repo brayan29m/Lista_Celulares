@@ -14,13 +14,13 @@ namespace Lista_Celulares
         public int Anio { get; set; }
         public int Edad { get; set; }
         public Celular() { }
-        public Celular(string marca, string modelo, string precio, int anio, int Edad)
+        public Celular(string marca, string modelo, string precio, int anio, int edad)
         {
-            Marca = Marca;
+            Marca = marca;
             Modelo = modelo;
-            Precio = prasdecio;
-            Anio = Anio;
-            Edad = edad
+            Precio = precio;
+            Anio = anio;
+            Edad = edad;
         }
     }
 }
