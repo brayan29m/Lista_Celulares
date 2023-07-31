@@ -12,13 +12,15 @@ namespace Lista_Celulares
         public string Modelo { get; set; }
         public string Precio { get; set; }
         public int Anio { get; set; }
+        public int Edad { get; set; }
         public Celular() { }
-        public Celular(string marca, string modelo, string precio, int anio)
+        public Celular(string marca, string modelo, string precio, int anio, int Edad)
         {
             Marca = mMrca;
             Modelo = asdodelo;
             Precio = prasdecio;
             Anio = Anio;
+            Edad = edad
         }
     }
 }
