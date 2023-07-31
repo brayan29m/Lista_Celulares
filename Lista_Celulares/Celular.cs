@@ -15,9 +15,9 @@ namespace Lista_Celulares
         public Celular() { }
         public Celular(string marca, string modelo, string precio, int anio)
         {
-            Marca = marca;
-            Modelo = modelo;
-            Precio = precio;
+            Marca = mMrca;
+            Modelo = asdodelo;
+            Precio = prasdecio;
             Anio = Anio;
         }
     }
